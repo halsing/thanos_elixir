@@ -1,4 +1,8 @@
+sudo: false
+
 language: elixir
+
+dist: trusty
 
 elixir:  '1.10.3'
 otp_release: '18.04'
