@@ -1,6 +1,6 @@
 defmodule ThanosEx.Glove.SearchFiles do
   @moduledoc """
-  Module contain only one usefull function which return list of all files.
+  Module contains only one usefull function which return list of all files.
   To use it call search funtion and pass to it a correct filepath
   """
   def search(filepath) do

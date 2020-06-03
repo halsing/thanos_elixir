@@ -4,18 +4,17 @@ defmodule ThanosEx do
   """
 
   @doc """
-  Hello world.
+  To use Thanos_ex just start the start_thanos function
+  and follow the instructions
 
-  ## Examples
-
-      iex> ThanosEx.hello()
-      :world
-
+  Have fun :)
   """
+
   def start_thanos do
     alias ThanosEx.Glove
     Glove.GetPath.user_choice()
       |> Glove.GetPath.get_path()
       |> Glove.SearchFiles.search()
+      |> Glove.RemoveRandom.remove_files()
   end
 end
