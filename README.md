@@ -14,8 +14,8 @@ Just follow this steps :
 
 1. Install [Elixir](https://elixir-lang.org/install.html)
 2. Run git clone on Your machine and enter the project
-  * PRINT('git clone https://github.com/halsing/thanos_elixir.git ')
-  * PRINT('cd thanos_elixir')
+  * ``` git clone https://github.com/halsing/thanos_elixir.git ```
+  * ``` cd thanos_elixir ```
 
 3. Compile and run the code:
   * PRINT('iex -S mix')
