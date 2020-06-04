@@ -1,21 +1,30 @@
 # ThanosEx
 
-**TODO: Add description**
+**The best solution to remove half of the random files from your project!**
 
 ## Installation
 
-If [available in Hex](https://hex.pm/docs/publish), the package can be installed
-by adding `thanos_ex` to your list of dependencies in `mix.exs`:
+To use this project You have to install Elixir with their dependencies:
+To do that check the instalation [guide](https://elixir-lang.org/install.html)
 
-```elixir
-def deps do
-  [
-    {:thanos_ex, "~> 0.1.0"}
-  ]
-end
-```
 
-Documentation can be generated with [ExDoc](https://github.com/elixir-lang/ex_doc)
-and published on [HexDocs](https://hexdocs.pm). Once published, the docs can
-be found at [https://hexdocs.pm/thanos_ex](https://hexdocs.pm/thanos_ex).
+## Guide
+Do You want make Your project more useless ? 
+Just follow this steps :
+
+1. Install [Elixir](https://elixir-lang.org/install.html)
+2. Run git clone on Your machine and enter the project
+  * PRINT('git clone https://github.com/halsing/thanos_elixir.git ')
+  * PRINT('cd thanos_elixir')
+
+3. Compile and run the code:
+  * PRINT('iex -S mix')
+  * Now the most  important part:
+    * PRINT('ThanosEx.start_thanos()')
+
+4. Follow the steps in console. 
+  * You can use the path of current wroking directory ('cwd') or You can enter other absoluthe path.
+  * If you use current working directory path You will probably remove half of the files from this project :)
+
+## Have fun !!
 
