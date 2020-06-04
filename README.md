@@ -18,9 +18,9 @@ Just follow this steps :
   * ``` cd thanos_elixir ```
 
 3. Compile and run the code:
-  * PRINT('iex -S mix')
+  * ``` iex -S mix ```
   * Now the most  important part:
-    * PRINT('ThanosEx.start_thanos()')
+    * ``` ThanosEx.start_thanos() ```
 
 4. Follow the steps in console. 
   * You can use the path of current wroking directory ('cwd') or You can enter other absoluthe path.
