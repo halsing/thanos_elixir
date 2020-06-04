@@ -26,5 +26,5 @@ Just follow this steps :
   * You can use the path of current wroking directory ('cwd') or You can enter other absoluthe path.
   * If you use current working directory path You will probably remove half of the files from this project :)
 
-## Have fun !!
+5. Have fun !!
 
