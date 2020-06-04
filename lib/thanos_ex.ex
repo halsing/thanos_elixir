@@ -1,9 +1,6 @@
 defmodule ThanosEx do
   @moduledoc """
   Documentation for `ThanosEx`.
-  """
-
-  @doc """
   To use Thanos_ex just start the start_thanos function
   and follow the instructions
 
